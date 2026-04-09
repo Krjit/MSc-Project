@@ -7,4 +7,4 @@
 
 **Description:** The objective of this project is to secure Electronic Health Records (EHRs) using Blockchain technology, Encryption technique with Nature Inspired Optimization Algorithm (NIOA) which helps to diagnose the records securely.
 
-**key contributions:** Data collecting, Data processing, Data encryption with Optimal key using NIOA, Implement NOA, Store the data in Blockchain, Decrypt the data for diagnosis purpose, use different ML & DL algorithm with different modeloptimization method, Accuracy Comparisons
+**key contributions:** Data collection, Data processing, Data encryption with Optimal key using NIOA, Implement NOA, Store the data in Blockchain, Decrypt the data for diagnosis purpose, use different ML & DL algorithm with different modeloptimization method, Accuracy Comparisons
